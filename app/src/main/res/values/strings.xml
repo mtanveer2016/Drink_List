@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="hello">Hello World, MainActivity!</string>
+    <string name="app_name">My drink List</string>
+    <string name="hintTxtItem">Enter an item here ...</string>
+    <string name="lblBtnAdd">ADD ITEM</string>
+    <string name="txtEmpty">List is empty</string>
+    <string name="lblBtnDel">Delete Selected Items</string>
+    <string name="title_activity_main2">Main2Activity</string>
+</resources>
